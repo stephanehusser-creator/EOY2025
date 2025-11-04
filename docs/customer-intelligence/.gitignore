@@ -1,0 +1,31 @@
+# Protect sensitive customer and proprietary data
+
+# All files in proprietary-materials subdirectory
+proprietary-materials/**/*
+
+# Confidential files
+**/confidential-*
+**/*-confidential.*
+**/*-sensitive.*
+**/*-private.*
+
+# Common sensitive file types
+*.xlsx
+*.xls
+*.pdf
+*.docx
+*.pptx
+*.zip
+*.rar
+
+# Database exports
+*.sql
+*.db
+*.sqlite
+
+# Keep README files
+!**/README.md
+
+# Keep example templates
+!**/TEMPLATE-*
+!**/template-*
