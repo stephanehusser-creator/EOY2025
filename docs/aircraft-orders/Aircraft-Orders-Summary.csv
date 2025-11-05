@@ -1,0 +1,35 @@
+Airline,Country,Region,Carrier_Type,Aircraft_Type,Category,Quantity,Options,Order_Date,Delivery_Start,Delivery_End,OEM
+Turkish Airlines,Turkey,Europe,Legacy,A321neo,Single-Aisle,150,0,Dec-2023,2025,2035,Airbus
+Turkish Airlines,Turkey,Europe,Legacy,A350,Twin-Aisle,70,0,Dec-2023,2025,2035,Airbus
+Lufthansa Group,Germany,Europe,Legacy,B737-8 MAX,Single-Aisle,40,60,Dec-2023,2026,2032,Boeing
+Lufthansa Group,Germany,Europe,Legacy,A220-300,Single-Aisle,40,20,Dec-2023,2026,2032,Airbus
+Lufthansa Group,Germany,Europe,Legacy,B787-9,Twin-Aisle,7,0,2023,2023,2030,Boeing
+Lufthansa Group,Germany,Europe,Legacy,A350-1000,Twin-Aisle,15,0,2023-2024,2028,2030,Airbus
+Lufthansa Group,Germany,Europe,Legacy,A350-900,Twin-Aisle,5,0,2023,2028,2030,Airbus
+Ryanair,Ireland,Europe,LCC,B737 MAX-10,Single-Aisle,150,150,May-2023,2027,2033,Boeing
+Wizz Air,Hungary,Europe,LCC,A321neo,Single-Aisle,75,0,Aug-2023,2023,2028,Airbus
+Air France-KLM,France,Europe,Legacy,A350 family,Twin-Aisle,50,40,Sep-2023,2023,2027,Airbus
+Air France-KLM,France,Europe,Legacy,A320neo family,Single-Aisle,100,0,2021,2023,2025,Airbus
+SAS,Scandinavia,Europe,Legacy,E195-E2,Regional,45,10,2025,2025,2028,Embraer
+SAS,Scandinavia,Europe,Legacy,A320neo,Single-Aisle,6,0,2024,2024,2025,Airbus
+SAS,Scandinavia,Europe,Legacy,A350-900,Twin-Aisle,2,0,2024,2025,2025,Airbus
+TAP Air Portugal,Portugal,Europe,Legacy,A320neo family,Single-Aisle,24,0,Prior,Ongoing,Ongoing,Airbus
+TAP Air Portugal,Portugal,Europe,Legacy,A330-900,Twin-Aisle,2,0,Prior,Ongoing,Ongoing,Airbus
+Iberia,Spain,Europe,Legacy,A350-900,Twin-Aisle,1,0,Jul-2023,2023,2024,Airbus
+Croatia Airlines,Croatia,Europe,Legacy,A220-300,Single-Aisle,6,0,Prior,Jul-2024,2025,Airbus
+Emirates,UAE,Middle East,Legacy,A350,Twin-Aisle,50,0,Planned,2025,2030,Airbus
+Emirates,UAE,Middle East,Legacy,B787-9,Twin-Aisle,30,0,Planned,2025,2030,Boeing
+Etihad Airways,UAE,Middle East,Legacy,A320neo,Single-Aisle,1,0,2024,2024,2024,Airbus
+Etihad Airways,UAE,Middle East,Legacy,A321neo,Single-Aisle,6,0,2024,2024,2024,Airbus
+Etihad Airways,UAE,Middle East,Legacy,B787-9,Twin-Aisle,3,0,2024,2024,2024,Boeing
+Etihad Airways,UAE,Middle East,Legacy,A380,Twin-Aisle,1,0,2024,2024,2024,Airbus
+Etihad Airways,UAE,Middle East,Legacy,Various,Mixed,100,0,Outstanding,2024,2030,Mixed
+Qatar Airways,Qatar,Middle East,Legacy,A350,Twin-Aisle,184,0,Outstanding,2023,2029,Airbus
+Qatar Airways,Qatar,Middle East,Legacy,Various,Mixed,12,0,2024,2024,2024,Mixed
+Saudia,Saudi Arabia,Middle East,Legacy,B787,Twin-Aisle,39,0,2023,2023,2029,Boeing
+flynas,Saudi Arabia,Middle East,LCC,A320 family,Single-Aisle,30,0,Jun-2023,2023,2026,Airbus
+flynas,Saudi Arabia,Middle East,LCC,Airbus aircraft,Single-Aisle,160,0,Jul-2024,2024,2029,Airbus
+Ethiopian Airlines,Ethiopia,Africa,Legacy,A350-900,Twin-Aisle,11,0,Outstanding,2024,2030,Airbus
+Ethiopian Airlines,Ethiopia,Africa,Legacy,A350-1000,Twin-Aisle,3,0,Outstanding,2024,2030,Airbus
+EgyptAir,Egypt,Africa,Legacy,A350-900,Twin-Aisle,10,0,Prior,Ongoing,2028,Airbus
+EgyptAir,Egypt,Africa,Legacy,A350,Twin-Aisle,6,0,2025,2025,2028,Airbus
