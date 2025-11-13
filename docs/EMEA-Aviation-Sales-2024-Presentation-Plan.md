@@ -262,7 +262,7 @@
 
 ## SECTION III: KSF and Challenges
 
-### 3.0 Increased Program Management Complexity
+### 2.5 Increased Program Management Complexity
 
 The aviation supply chain has evolved into an intricate global network where programs are deeply interconnected across continents, creating unprecedented coordination challenges. Today's projects involve multiple stakeholders spanning different time zones, regulatory jurisdictions, and operational cultures.
 
