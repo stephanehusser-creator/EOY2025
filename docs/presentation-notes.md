@@ -10,6 +10,28 @@
 
 ## Quick Reference - Key Takeaways
 
+### 🔴 MOST CRITICAL: Shortened Lead Times Crisis
+
+**Industry-Defining Constraint:**
+- Lead times compressed **40-50%** (24-36 months → 15-20 months)
+- Material production: **3 months** (was 6-8 months)
+- Testing/certification: **1-2 months** (was 4-6 months)
+- Design selection: **+50% longer** (9-12 months)
+
+**The Etihad Example:**
+- ~100 aircraft pipeline (doubling fleet)
+- 6 A321neo second-hand (2024) requiring rapid standardization
+- Business class on single-aisle mandatory (vs Emirates/Qatar competition)
+- 18M+ passengers - minimal downtime tolerance
+- 9-month ITCM-to-delivery cycle execution required
+
+**Winners:** Pre-certified portfolios, 3-month production cycles (15-25% premium)
+**Losers:** Traditional long-lead suppliers EXCLUDED from fastest-growing segment
+
+**See:** [Section 1.6: Shortened Lead Times Challenge](./section-i-market-analysis/1.6-shortened-lead-times-challenge.md)
+
+---
+
 ### Market Status (Section I)
 - **EMEA Infrastructure Market:** $1.03B (2025), CAGR 4.42%
 - **Europe:** 2.5B+ passengers (2024), +7.3% YoY, finally +1.8% above 2019
@@ -17,6 +39,7 @@
 - **Fleet Forecast:** Middle East CAGR 5.1% (82% above global 2.8%)
 
 ### Critical Changes (Section II)
+0. **🔴 Shortened Lead Times Crisis:** 40-50% compression, 3-month material production, 1-2 month certification, Etihad example
 1. **Aircraft Delivery Crisis:** Boeing 340 deliveries (↓35.6%), 17,000 aircraft backlog, fleet age 14.8 years
 2. **Sustainability Costs:** Carbon now #3 expense, SAF at 0.53% (need 2% by 2025), 3-10x cost premium
 3. **Workforce Shortage:** 1.2M professionals needed over 10 years (new top-5 risk)
@@ -25,12 +48,13 @@
 6. **Uneven Recovery:** 47% of airports below 2019, small airports -34.5%, Germany -16%
 
 ### Success Factors (Section III)
-1. **Sustainability Value Chain** - SAF gap & carbon cost solutions
-2. **Workforce Solutions** - Training partnerships & labor-reducing tech
-3. **Digital Transformation** - AI, biometrics, automation (70% fail without strategy)
-4. **Middle East Infrastructure** - Mega-project participation
-5. **Fleet Modernization** - MRO services for aging fleet
-6. **Cargo Growth** - MEA +19.9% YoY opportunity
+**🔴 1. CRITICAL: Speed to Market Execution** - 3-month production, 1-2 month certification, pre-certified portfolios, Etihad model (15-25% premium)
+2. **Sustainability Value Chain** - SAF gap & carbon cost solutions (lightweight = faster installs)
+3. **Workforce Solutions** - Training partnerships & modular installation (fewer technicians)
+4. **Digital Transformation** - AI, biometrics, digital twins (accelerate design)
+5. **Middle East Infrastructure** - Regional presence for 9-month cycles, local pre-assembly
+6. **Fleet Modernization** - Rapid retrofit kits (second-hand standardization like Etihad)
+7. **Cargo Growth** - MEA +19.9% YoY opportunity
 
 ## Objectives
 
