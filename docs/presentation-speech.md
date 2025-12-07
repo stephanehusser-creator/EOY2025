@@ -278,12 +278,393 @@ After the break, I'll show you exactly what this means for our business – the 
 
 ---
 
+**[RESUME AFTER BREAK - PART 2 BEGINS]**
+
+---
+
+## SLIDE 11: Premium Examples - Visual Proof
+**[SLIDE 11: Images of Eurowings, FlyDubai, FlyaDeal premium cabins]**
+
+**SPEECH (Duration: ~2 minutes)**
+
+Welcome back. Before the break, we talked about the market dynamics – the constraints in Europe and the extraordinary growth in the Middle East. Now I want to show you what this means specifically for TAPIS and our business.
+
+Let me start with something visual that proves the point I made about premium cabins becoming standard.
+
+[Point to the slide] Look at these three examples:
+
+**Eurowings** – this is a European low-cost carrier, part of the Lufthansa Group. They just launched their premium BIZ cabin in November 2025. Full recliners, premium materials, on single-aisle aircraft flying 3-5 hour routes across Europe.
+
+**FlyDubai** – Emirates' low-cost subsidiary. Look at that business class. That's not "budget." That's premium seating with lie-flat capability on regional routes. They're taking delivery of 200+ single-aisle aircraft through 2029, and every one will have business class.
+
+**FlyaDeal** – Saudia's low-cost arm. Look at those seats. Cream leather, premium finish, modern design. This is an LCC operating out of Jeddah and Riyadh, and they're competing on product quality, not just price.
+
+This is the shift: premium is no longer exclusive to widebody long-haul. It's becoming the expectation across aircraft types, especially in the Middle East.
+
+For TAPIS, this is critical because our Ultraleather material is designed exactly for this application: premium appearance, fire safety certification, weight efficiency, and durability for high-utilization fleets.
+
+Now let me show you the infrastructure investments backing this growth.
+
+---
+
+## SLIDE 12: Al-Maktoum Airport - Scale of Ambition
+**[SLIDE 12: Al-Maktoum Airport renderings and comparison charts]**
+
+**SPEECH (Duration: ~2 minutes)**
+
+I want you to see this because it illustrates the scale of what's happening in the Middle East.
+
+[Point to the rendering] This is Dubai's Al-Maktoum International Airport – currently under construction and set to become the largest airport in the world.
+
+Look at the comparison chart: 260 million passengers per year when fully built out. That's 2.4 times the busiest U.S. airport. It will have 400 gates – that's twice as many as Atlanta. And it will handle 12 million tonnes of cargo annually.
+
+The cost? $35 billion. And this is just one airport in one city.
+
+Why does this matter to us? Because airports don't get built unless there's aircraft to fill them. And aircraft don't get delivered without interiors. Dubai alone is projecting capacity for an additional 100+ widebody aircraft over the next decade to fill this infrastructure.
+
+Add to that King Salman International in Riyadh ($31 billion, 330 million passenger target), expansions in Doha, Abu Dhabi, and you're looking at $300 billion in aviation infrastructure investment across the region by 2030.
+
+This isn't speculative. This is concrete, steel, and committed capital. And it all translates into aircraft orders, cabin installations, and material demand.
+
+Now, let me show you the specific opportunities for TAPIS.
+
+---
+
+## SLIDE 13: LineFit Opportunities - Europe
+**[SLIDE 13: European LineFit list]**
+
+**SPEECH (Duration: ~3 minutes)**
+
+LineFit opportunities are new aircraft deliveries where we spec our materials directly into the original cabin installation. Let me walk you through the European pipeline.
+
+**Lufthansa Group: 107 aircraft from 2026 to 2032.**
+This is across Lufthansa, Swiss, Austrian. The Allegris cabin program is rolling out – that's their premium refresh to compete with Gulf carriers. A350s, 787s, A330neos. We have strong relationships here, and this is recurring business.
+
+**Turkish Airlines: 220 aircraft through 2035.**
+This is the big one. 220 A321neos with full business class configurations. Turkish is the bridge between Europe and the Middle East – they operate like a European carrier but think like a Gulf carrier in terms of premium product. We have active programs with them on business class seats and exploratory discussions on economy Ultraleather.
+
+**Air France-KLM: 150+ aircraft from 2023 to 2027.**
+Fleet harmonization program across both carriers. A350s and 787s with updated interiors. We're already engaged.
+
+**SAS: 53 aircraft, 2024-2028.**
+**TAP Air Portugal: 26 aircraft.**
+**Iberia: Ongoing A350 and A321XLR programs** – remember, they launched the world's first A321XLR with lie-flat business class.
+
+And then the low-cost carriers:
+**Ryanair: 150 aircraft, 737 MAX, 2027-2033.**
+**Wizz Air: 434 aircraft backlog.**
+
+The LCC opportunity is evolving. They're not installing business class yet, but they're upgrading materials for durability and passenger experience. That creates entry points for economy-grade Ultraleather.
+
+Total European LineFit pipeline: **850+ aircraft through 2035.**
+
+Now let me show you the Middle East and Africa – because the composition is very different.
+
+---
+
+## SLIDE 14: LineFit Opportunities - Middle East & Africa
+**[SLIDE 14: MEA LineFit list]**
+
+**SPEECH (Duration: ~3-4 minutes)**
+
+Look at the Middle East LineFit opportunities. The numbers are different, but more importantly, the aircraft types are different.
+
+**Qatar Airways: 184 A350s through 2029+.**
+This is the largest A350 backlog in the world. Every single aircraft: first class, Qsuite business class, premium economy, economy. All premium materials. We're in active discussions on alignment across their fleet.
+
+**Emirates: 80 aircraft – A350s and 787-9s – starting in 2025.**
+Emirates is finally diversifying beyond the 777 and A380. These deliveries are locked in, and every aircraft will have first class suites. This is the highest revenue-per-aircraft opportunity globally for us.
+
+**Turkish Airlines: 220 aircraft.**
+Yes, same program as Europe, but I'm listing it here because Turkish operates as a bridge carrier. They serve both markets, and their cabin standards are Middle Eastern in quality.
+
+**flynas: 190 aircraft, A320 family, 2024-2029.**
+This is the LCC story I mentioned earlier. 190 aircraft over five years – that's 38 aircraft per year. And they're not flying 90-minute hops within Saudi Arabia. They're doing 4-6 hour regional routes with premium economy and business class options. This is the future of LCC in the Gulf: high frequency, longer regional routes, premium options.
+
+**Saudia: 39 787s, 2023-2029.**
+We already have Ultraleather programs with Saudia. The 787 deliveries are ongoing, and there are opportunities to expand beyond seating into panels and verticals.
+
+**Etihad: ~100 aircraft on order, starting 2025+.**
+Etihad is rebuilding after years of restructuring. They're now profitable, government-backed, and expanding. A350s, 787s, and A321neos. All will need premium cabin materials.
+
+**Riyadh Air: Substantial orders – new entrant.**
+This is Saudi Arabia's new flag carrier, launching in 2025. This is a state-backed, world-class airline being built from scratch to compete directly with Emirates and Qatar Airways. We've already won Riyadh Air as a customer for Ultraleather Bio. That's a strategic win that positions us for their entire fleet buildout.
+
+**Africa:**
+
+**Ethiopian Airlines: 58 A350s** – the largest African program. Ethiopian is Africa's most profitable carrier, and they're expanding across the continent and to Asia.
+
+**EgyptAir: 16 A350s** – 10 outstanding plus 6 new deliveries in 2025.
+
+Total MEA LineFit pipeline: **1,000+ aircraft, 80% twin-aisle.**
+
+Compare that to Europe: same number of aircraft, but Europe is 74% single-aisle. The Middle East is 80% twin-aisle. That's the difference. Every twin-aisle aircraft is a higher-value opportunity for premium materials.
+
+---
+
+## SLIDE 15: Retrofit Opportunities - Europe
+**[SLIDE 15: European retrofit programs]**
+
+**SPEECH (Duration: ~2-3 minutes)**
+
+Now let's talk retrofit – because LineFit is only half the business. Retrofit is where we get recurring revenue.
+
+**Lufthansa Group – Allegris program.**
+Multi-airline: Lufthansa, Swiss, Austrian. Aircraft types: A350, 787, A330neo. This is their premium cabin refresh specifically designed to compete with Gulf carriers. They're upgrading interiors on existing aircraft to match the quality passengers experience on Emirates and Qatar. We're engaged across this program.
+
+**Air France-KLM.**
+Fleet harmonization across the combined airline group. A350 and 787 updated interiors. Existing widebody fleet retrofits are ongoing. This is steady, recurring business.
+
+**Turkish Airlines.**
+A3 business class seat program is active. We're supplying Ultraleather for business class seating. And we have exploratory discussions on economy class Ultraleather – that would be significant volume if it converts.
+
+**EMEA Retrofit Cycle timing:**
+Here's the key difference between regions:
+- **Middle East: 5-7 year retrofit cycle.**
+- **Europe: 10-12 year retrofit cycle.**
+
+What does that mean? It means Middle East carriers refresh cabins twice as often as European carriers. That creates recurring revenue opportunities every 5-7 years on the same aircraft. European carriers stretch to 10-12 years before retrofitting.
+
+Why the difference? Middle East carriers are competing on product quality. Premium cabins are a competitive differentiator. They refresh more frequently to stay ahead. European carriers are managing costs and extending cabin lifecycles.
+
+For TAPIS, the Middle East retrofit cycle is ideal: shorter intervals, higher-quality materials, recurring revenue model.
+
+---
+
+## SLIDE 16: Retrofit Opportunities - Middle East
+**[SLIDE 16: Middle East retrofit programs]**
+
+**SPEECH (Duration: ~3-4 minutes)**
+
+Now let me show you the Middle East retrofit pipeline – because this is where the volume gets significant.
+
+**Emirates: 160 aircraft – 777 and A380 fleets – timeline 2024 to 2030+.**
+
+This is a massive program. Emirates operates the world's largest 777 and A380 fleets, and they're retrofitting every single aircraft.
+
+Status: 777 retrofit is nearing completion. A380 retrofit is starting in 2025-2026 and will run through 2030.
+
+The opportunity for us: Emirates is replacing painted surfaces and laminates with premium textiles in first class and business class. Think about that: A380 first class suites currently use a lot of hard surfaces. Emirates is moving toward soft-touch materials for premium feel. That's Ultraleather.
+
+160 aircraft. Multiple cabin classes per aircraft. Multi-year program. This is the single largest retrofit opportunity in the world right now.
+
+**Qatar Airways: 21 A350 in-service fleet retrofit + 184 on-order alignment.**
+
+Qatar is retrofitting their existing 21 A350s to match the spec of the 184 aircraft on order. That ensures consistent passenger experience across the fleet. The Qsuite business class is rolling out fleet-wide – that's the benchmark business class product globally. We're positioning for LineFit standards on the new deliveries and retrofit alignment on existing aircraft.
+
+Timeline: ongoing 2025-2029.
+
+**Etihad Airways: 6 A321neos acquired second-hand in 2024 + ~100 aircraft future pipeline.**
+
+Etihad bought six A321neos from Bamboo Airways in 2024. These aircraft need standardization and business class configuration to match Etihad's brand. And beyond that, they have ~100 aircraft on order that will all need interior alignment.
+
+This is a strategic opportunity: get into Etihad now on the retrofit side, establish material standards, and carry that forward into the LineFit pipeline.
+
+**Saudia: 787 program – PANS (panels and verticals) opportunities beyond current Ultraleather.**
+
+We already supply Ultraleather for Saudia's 787 seating. The next opportunity is expanding into panels, sidewalls, and vertical surfaces in premium cabins. That's higher volume per aircraft and deeper material penetration.
+
+This is the Middle East retrofit story: large fleets, short cycles, premium focus, and recurring revenue.
+
+---
+
+## SLIDE 17: SWOT Analysis
+**[SLIDE 17: SWOT table]**
+
+**SPEECH (Duration: ~2-3 minutes)**
+
+Let me pause on strategy for a moment and talk about where TAPIS stands competitively.
+
+**Strengths:**
+
+1. **Flammability Expertise.** We are the leader in FAR 25.853 compliant materials. We know how to engineer Ultraleather to pass heat release rate (HRR), smoke density, and flame penetration tests. That's a technical moat that competitors struggle to replicate.
+
+2. **Recognition.** Airlines, seat manufacturers, and design houses know TAPIS. We're spec'd into major programs. That brand recognition is an asset.
+
+3. **Reach to the design community.** We work directly with designers at the concept phase. That gets us into programs early, before competitors are even in the conversation.
+
+**Weaknesses:**
+
+1. **Minimum Order Quantities (MOQs).** Our MOQs can be a barrier for smaller programs or airlines testing new materials. We need flexibility here.
+
+2. **Weight.** Ultraleather is heavier than some competitive products for seating applications. In an industry obsessed with weight savings, this is a disadvantage we need to address through engineering.
+
+3. **End-of-life sustainable solution.** We don't yet have a fully circular or biodegradable product. Sustainability is becoming a purchasing criterion, and we need an answer.
+
+**Opportunities:**
+
+1. **Keep the lead in sustainability.** Ultraleather Bio is a start, but we can go further. Carbon accounting, recycled content, end-of-life take-back programs – these will differentiate us.
+
+2. **Find a metric for comfort.** Airlines talk about "premium feel," but there's no standardized measurement. If we can define and own a comfort metric – breathability, haptics, temperature regulation – we create a new competitive dimension.
+
+3. **Establish a foothold in Turkey.** Turkish Airlines is the gateway. 220 aircraft on order. If we win Turkish across all cabin classes, we establish a manufacturing and design hub that serves both Europe and the Middle East.
+
+**Threats:**
+
+1. **Difficulties meeting HRR requirements.** As fire safety standards tighten, our engineering challenges increase. We need to stay ahead of regulatory changes.
+
+2. **Nomex, Alcantara, and new engineered leathers.** Competitors are innovating. Alcantara is lighter. Nomex has fire performance. New bio-based leathers are emerging. We can't assume our technical advantage is permanent.
+
+This SWOT tells us: leverage our technical leadership, address weight and sustainability, and move fast on Turkey and emerging markets before competitors establish position.
+
+---
+
+## SLIDE 18: 2026 Forecast
+**[SLIDE 18: 2026 forecast table with airline volumes]**
+
+**SPEECH (Duration: ~3 minutes)**
+
+Now let me show you the specific 2026 forecast – this is our budget by airline and program.
+
+[Point to the table] Let me highlight the key accounts:
+
+**Lufthansa: 4,000 yards** – Ultraleather Standard (958, 987, 971 colors). This is our largest European account and it's steady, predictable business.
+
+**Air France: 2,000 yards Ultraleather Bio + 1,500 yards Standard.**
+Air France is leaning into sustainability. The Bio product is becoming their preference for new deliveries.
+
+**Emirates: 6,200 yards for maintenance + 1,100 yards for retrofit.**
+7,300 yards total from Emirates. This is the 777 and A380 programs I mentioned. Maintenance is ongoing consumables; retrofit is the cabin refresh program.
+
+**Saudia: 1,000 yards Standard + 500 yards (974 color).**
+1,500 yards total. Saudia is a strong Middle East partner, and we're expanding beyond seating.
+
+**Etihad: 1,500 yards** – Ultraleather Standard (981 old reference / 914 new). This is the A321neo retrofit and alignment for future deliveries.
+
+**Riyadh Air: 1,000 yards Ultraleather Bio (947 color).**
+This is the new entrant win I mentioned. They're launching with Bio from day one – that's a sustainability statement and a competitive differentiator for us.
+
+**Total 2026 forecast: 55,000 to 60,000 yards.**
+
+Let me put that in context:
+- If we hit 55K yards, that's **+35% growth** year-over-year.
+- If we hit 60K yards, that's **+46% growth** year-over-year.
+
+And the composition matters: **65% of this volume is Middle East.** That confirms the strategic shift we talked about in Part 1.
+
+---
+
+## SLIDE 19: 2025/2026 Engaged Projects
+**[SLIDE 19: Engaged projects table with status]**
+
+**SPEECH (Duration: ~2 minutes)**
+
+Let me show you where we are right now on active programs – because forecast is one thing, but execution is what matters.
+
+[Point to the table]
+
+**Turkish Airlines: 600 aircraft, ETA 2025 – Status: In process / postponed.**
+This is the big one. We're in active discussions, but the timeline has shifted. Turkish is evaluating materials across their entire narrowbody order. If we win this, it's transformational.
+
+**Kuwait Airways: 7 A330s – Finalized.**
+**FlyDubai: 200+ single-aisle – Finalized.**
+**Swiss: 5 A350s – Finalized.**
+
+These are locked in. Production is underway or complete.
+
+**Saudia: 50+ aircraft – In process.**
+**Qatar Airways: 100+ aircraft – In process.**
+
+Both are active programs with lab dips in development and spec finalization ongoing.
+
+**Qatar Airways: New designs, fleet-wide, ETA 2026 – Design phase starting end of year 2024.**
+
+This is the next-generation Qatar cabin. If we get specified into the design standard, that flows through to 184 A350s on order. This is a must-win.
+
+**Etihad: 40 single-aisle, new design – In process.**
+
+**Emirates: 110 A380s, ETA 2029 – New design inspired by 777.**
+
+The A380 retrofit program. 110 aircraft over four years. The new design is taking cues from the 777 retrofit that's nearly complete. We're positioned for this, but it's a competitive bid.
+
+---
+
+## SLIDE 20: 9-Series QuickShip
+**[SLIDE 20: Ultraleather product image]**
+
+**SPEECH (Duration: ~1 minute)**
+
+One quick note on our 9-Series QuickShip program.
+
+This is our stocked Ultraleather in standard colors with fast turnaround. It's designed for maintenance, repair, and smaller retrofit programs where airlines can't wait for custom manufacturing.
+
+[Note: This slide needs volume data to be finalized, but the concept is important.]
+
+QuickShip gives us flexibility for urgent orders, MRO business, and entry points with new customers who want to test the material before committing to large programs.
+
+This is particularly valuable in the Middle East, where retrofit cycles are short and airlines sometimes need materials on 4-6 week lead times.
+
+---
+
+## SLIDE 21: Conclusion
+**[SLIDE 21: Conclusion bullets]**
+
+**SPEECH (Duration: ~3-4 minutes)**
+
+Let me bring this together.
+
+**Our Opportunity:**
+
+473 aircraft deliveries across EMEA in 2026. 240 of those are in the Middle East, and 120 are twin-aisle configured for premium interiors. That's where our highest-value materials go.
+
+**Strategic Shift Complete:**
+
+The Middle East is growing 3 times faster than Europe – 7.1% versus 2.4%. And 80% of that growth is twin-aisle, which means premium cabin materials. This isn't a temporary spike. This is structural, government-backed, infrastructure-supported growth that will continue through 2030 and beyond.
+
+**Clear Path to Growth:**
+
+We have identified five priority wins for 2026:
+1. Turkish Airlines (600 aircraft)
+2. Qatar Airways (fleet-wide new design)
+3. Emirates A380 retrofit (110 aircraft)
+4. flynas LCC program (190 aircraft)
+5. Ethiopian Airlines entry (58 A350s)
+
+If we win three of those five, we hit our 55-60K yard target, which is +35-46% growth.
+
+And beyond 2026, we have recurring revenue from Middle East retrofit cycles every 5-7 years. That's predictable, repeatable business.
+
+**Competitive Positioning:**
+
+We have strong relationships with Lufthansa, Air France, Emirates, Etihad, and Saudia. We have recent wins with Riyadh Air and Etihad. And we have strategic targets in flynas, Qatar expansion, and Ethiopian entry.
+
+Our technical advantage in flammability and our brand recognition in the design community are real moats. But we need to move fast on sustainability, address weight concerns, and lock in Turkey before competitors establish footholds.
+
+**[Pause, look at the board]**
+
+Here's the bottom line:
+
+The EMEA aviation market is bifurcating. Europe is stable but constrained – workforce limits, infrastructure limits, regulatory costs. The Middle East is expanding – government-backed, premium-focused, infrastructure-rich.
+
+For TAPIS, the strategic imperative is clear: double down on the Middle East while maintaining European relationships. That's where the growth is. That's where premium matters. And that's where we're positioned to win.
+
+Thank you.
+
+**[END OF PART 2]**
+
+---
+
+## SLIDE 22: Thank You
+**[SLIDE 22: Contact information]**
+
+**SPEECH (Duration: ~30 seconds)**
+
+I'm happy to take your questions now.
+
+And if you'd like to follow up after this session, my contact information is on the slide.
+
+Thank you for your time and attention.
+
+---
+
 ## Navigation Notes:
-- **Status:** PART 1 COMPLETE
-- **Content Covered:** Introduction + Slides 1-10 (Full market overview: Europe + Middle East)
-- **Time Used:** ~25 minutes (within target)
-- **Next Section:** PART 2 will cover TAPIS Opportunities, Strategic Accounts, 2026 Targets
-- **Break Point:** Natural pause for questions/break before diving into business specifics
+- **Status:** COMPLETE - BOTH PARTS FINISHED
+- **Part 1 Content:** Introduction + Slides 1-10 (Market overview: Europe + Middle East)
+- **Part 1 Duration:** ~25 minutes
+- **Part 2 Content:** Slides 11-22 (TAPIS Opportunities, LineFit/Retrofit, SWOT, 2026 Forecast, Conclusion)
+- **Part 2 Duration:** ~25 minutes
+- **Total Presentation Time:** ~50 minutes (matching target duration)
+- **Break Point:** Natural pause between Part 1 (market analysis) and Part 2 (business specifics)
 
 ---
 
