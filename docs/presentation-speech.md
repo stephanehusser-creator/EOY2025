@@ -38,7 +38,7 @@ But here's the reality: this is a market in recovery mode, not growth mode.
 
 Let me explain what I mean by walking through the critical challenges – because they directly impact our business.
 
-**First, the workforce crisis.** Europe is short 18 to 20 thousand pilots right now.[^1] They're missing 30% of their aircraft engineers.[^2] And this isn't a temporary blip – the training infrastructure simply cannot close this gap for two to three years.[^3] Airlines are literally grounding aircraft they own because they don't have crews to fly them.[^4] When you can't staff your existing fleet, you certainly can't expand it aggressively.
+**First, the workforce crisis.** Europe is facing a pilot shortage that IATA projects at 1,300 in 2025, escalating to 19,000 by 2032.[^1] Aircraft engineer shortages are emerging, with Oliver Wyman projecting a 27% deficit by 2027.[^2] And this isn't theoretical – Swiss Airlines just canceled 1,400 flights this year due to pilot shortages, and the training infrastructure cannot close this gap for years.[^3][^4] Airlines are literally grounding aircraft they own because they don't have crews to fly them. When you can't staff your existing fleet, you certainly can't expand it aggressively.
 
 **Second, sustainability costs are hitting hard.** The EU's ReFuelEU mandate and the Emissions Trading System are adding between 4 and 8 euros per passenger in costs. Airlines are responding by accelerating fleet renewal – replacing older aircraft with more efficient models – but they're not adding capacity. They're replacing one-for-one. For us, that means the 185 aircraft being delivered to Europe in 2026 are split almost evenly: 100 for growth, 85 for replacement.
 
@@ -79,15 +79,141 @@ But first, let's acknowledge the elephant in the room: geopolitical risk.
 
 ---
 
-**[Continue to Slide 4: Geopolitical Issues...]**
+---
+
+## SLIDE 4: Geopolitical Issues - Russia Airspace Closure
+**[SLIDE 4: Map showing Europe-China route changes]**
+
+**SPEECH (Duration: ~2 minutes)**
+
+I mentioned the geopolitical situation briefly, but I want you to see the impact visually because it's significant for our business.
+
+[Point to the map] This shows what's happening with Europe-China routes. Before the Russian airspace closure, European carriers had direct routes across Russia to China. Now they're forced to go around – adding 2 to 4 hours to every flight.
+
+The result? Complete market restructuring:
+- Virgin Atlantic, SAS, and LOT have completely exited China routes
+- Finnair – which built its entire strategy around being the fastest route to Asia – cut their China service by 90%
+- British Airways, Lufthansa, KLM – all down 20% or more
+
+Chinese carriers now have 78% market share on Europe-China routes because they can still overfly Russia. They have a structural cost advantage that European carriers simply can't compete with.
+
+Why does this matter to us? Because long-haul routes are where premium cabin demand lives. And Europe is losing long-haul reach, which means fewer opportunities for premium cabin retrofits and new deliveries.
+
+This constraint isn't going away anytime soon.
+
+---
+
+## SLIDE 5: Europe Strategic Shifts - Premium on Narrowbody
+**[SLIDE 5: Examples of European narrowbody premium cabins]**
+
+**SPEECH (Duration: ~2 minutes)**
+
+But there IS one interesting shift happening in Europe that creates opportunity for us.
+
+European carriers are starting to put business class on single-aisle aircraft – and not just standard recliner seats. We're talking proper premium cabins.
+
+Look at these examples:
+- **Iberia** just launched the world's first A321XLR with lie-flat business seats. That's a narrowbody aircraft flying transatlantic with full flat-bed cabins.
+- **Turkish Airlines** ordered 220 A321neos with full business class configurations
+- **Eurowings** is launching premium BIZ service in November
+
+This is a significant trend. Single-aisle aircraft make up 74% of the European fleet – that's 3,175 aircraft in 2026. If even 20% of those add or upgrade premium cabins, we're talking about 600+ aircraft opportunities.
+
+The economics make sense: these planes are flying 5-7 hour routes where passengers will pay for comfort, but the aircraft are more fuel-efficient than widebodies. So carriers get premium revenue without widebody operating costs.
+
+For TAPIS, this is a direct opportunity. Ultraleather in business class on narrowbodies – that's our sweet spot.
+
+Now, let me show you the complete opposite market dynamic: the Middle East.
+
+---
+
+## SLIDE 6: State of EMEA Aviation - Middle East Overview
+**[SLIDE 6: Middle East Market Overview]**
+
+**SPEECH (Duration: ~4-5 minutes)**
+
+This is where the real growth is happening.
+
+Middle East fleet growth: 7.1% in 2026. That's three times faster than Europe's 2.4%. That's 2.5 times the global average.
+
+But it's not just the growth rate – it's the composition and the certainty.
+
+Let me walk you through what makes this market fundamentally different:
+
+**First, the aircraft mix.** 240 deliveries in 2026. But look at the breakdown: 77% are twin-aisle aircraft. That's A350s, 787s, 777Xs – the largest, longest-range, highest-revenue aircraft in the sky. Compare that to Europe where 73% are single-aisle. The Middle East is building for long-haul premium, not short-haul volume.
+
+**Second, the backing.** This isn't speculative growth based on market demand forecasts. This is government-backed strategic expansion. Saudi Vision 2030 is investing $31 billion in King Salman International Airport alone, targeting 330 million passengers. The UAE is expanding Dubai and Abu Dhabi as global super-connectors. Qatar is positioning Doha as the premium hub between East and West.
+
+**Third, the financial strength.** Emirates, Qatar Airways, Etihad – these carriers have state backing and access to capital that European carriers simply don't have. They're not constrained by quarterly earnings pressure. They're building for 20-year strategies.
+
+**Fourth, premium is the default.** In Europe, premium cabins are being added to compete. In the Middle East, premium is the baseline expectation. Every wide-body delivery has first class, business class, and premium economy as standard. And they're competing with each other on cabin quality – it's a product arms race.
+
+**Fifth, the hub model works.** Dubai is now the world's number one international airport. Not London. Not New York. Dubai. Because the geographic position allows them to connect East and West with one-stop convenience that North Atlantic hubs can't match.
+
+Let me show you the specific numbers...
+
+---
+
+## SLIDE 7: Middle East Fleet Growth & Deliveries
+**[SLIDE 7: Middle East Fleet Growth Table]**
+
+**SPEECH (Duration: ~2-3 minutes)**
+
+Here are the numbers that tell the story.
+
+[Point to the table] 1,400 aircraft in 2025, growing to 1,500 in 2026. That's 100 aircraft net growth – a 7.1% increase.
+
+240 deliveries per year. To put that in context: the Middle East has one-third the fleet size of Europe, but is receiving 240 deliveries versus Europe's 185. That's 30% more deliveries for a region one-third the size.
+
+Now look at the composition: Twin-aisle growing from 700 to 760 – that's 60 aircraft. Single-aisle growing from 700 to 740 – that's 40 aircraft. So the fleet is perfectly balanced, but the growth is twin-aisle heavy.
+
+And look at retirements: 140 aircraft. They're not just growing – they're aggressively renewing their fleets. Older 777s and A380s being replaced with 787s, A350s, and 777Xs.
+
+For our business, this is the ideal scenario: high-revenue twin-aisle aircraft with premium cabin configurations across every class of service.
+
+---
+
+## SLIDE 8: Middle East by Country - UAE, Saudi Arabia, Qatar
+**[SLIDE 8: Middle East Deliveries by Country]**
+
+**SPEECH (Duration: ~3-4 minutes)**
+
+Now let me show you where specifically this growth is concentrated, because it affects our account strategy.
+
+**UAE: 85 deliveries in 2026.**
+- Emirates: 40-45 aircraft (A350s, 787-9s)
+- Etihad: 18-22 aircraft (A320neo family, 787s)
+- flydubai: 18-22 aircraft (737 MAX)
+
+Emirates alone is taking 40+ widebodies. Every single one will have first class suites, business class lie-flats, and premium economy. This is our highest-revenue-per-aircraft market globally.
+
+**Saudi Arabia: 78 deliveries in 2026 – and this is accelerating.**
+
+This is the story within the story. Saudi fleet growth is 11.7% – the fastest in the region. And here's why:
+
+- **Saudia:** 18-20 aircraft (787s)
+- **flynas:** 38-42 aircraft (A320neo family)
+
+flynas is the LCC story nobody's talking about. They have a 190-aircraft order program running from 2024 to 2029. That's the largest LCC order in EMEA. But here's the key: they're not flying short-haul budget routes. They're doing 4-6 hour regional flights with premium economy and business class options. It's "low-cost" but not low-quality.
+
+And all of this is driven by Vision 2030. Saudi is diversifying from oil, and aviation is a core pillar. King Salman Airport, Red Sea Project tourism, NEOM development – it all requires massive aviation expansion.
+
+**Qatar: 55 deliveries in 2026.**
+- Qatar Airways: 50-55 aircraft, almost entirely A350s
+
+Qatar Airways has the world's largest A350 backlog: 184 aircraft. They're building the world's most premium long-haul network, and they're doing it with the newest, most efficient twin-aisle fleet in the world.
+
+This is our market. This is where the growth is. This is where premium matters.
+
+**[Continue to Slide 9: Middle East Growth Drivers...]**
 
 ---
 
 ## Navigation Notes:
-- **Current Status:** Introduction + Slides 1-3 complete
-- **Next Slides:** Geopolitical Issues (Slide 4), Europe Strategic Shifts (Slide 5), then Middle East overview (Slides 6-8)
-- **Time Used:** ~8-9 minutes of 25-minute first part
-- **Time Remaining:** ~16-17 minutes for remaining first-part slides
+- **Current Status:** Introduction + Slides 1-8 complete (Europe overview + Middle East overview)
+- **Next Slides:** Middle East Growth Drivers (Slide 9), Wealth Migration (Slide 10), Premium Cabins Trend, then TAPIS Opportunity slides
+- **Time Used:** ~20-22 minutes of 25-minute first part
+- **Time Remaining:** ~3-5 minutes remaining for final first-part slides
 
 ---
 
@@ -107,10 +233,10 @@ But first, let's acknowledge the elephant in the room: geopolitical risk.
 
 ## Sources and References
 
-[^1]: **Pilot Shortage (18-20,000 pilots):** Oliver Wyman analysis projects Europe could face a shortfall of approximately 19,000 pilots by 2032. Source: "Will There Be a Pilot Shortage in Europe?" Easy EASA, 2024; "A New Pilot Shortage Forecast for 2024-2042," AEROCADET, 2024.
+[^1]: **Pilot Shortage Projections:** IATA study projects Europe is expected to face a shortage of 1,300 pilots by 2025, with Oliver Wyman analysis projecting this could escalate to approximately 19,000 pilots by 2032 if no corrective actions are taken. Source: "Will There Be a Pilot Shortage in Europe?" Easy EASA, 2024; "A New Pilot Shortage Forecast for 2024-2042," AEROCADET, 2024.
 
-[^2]: **Aircraft Engineer Shortage (30%):** Oliver Wyman report projects the deficit of aircraft maintenance technicians could reach 27% by 2027 (approximately 48,000 workers). Additional data indicates 27% of current aircraft engineers in Europe are due to retire within a decade, while 45% consider leaving the industry in UK, Europe, and Asia-Pacific regions. Source: "How To Overcome The Impending Shortage Of Aviation Mechanics," Oliver Wyman, 2023; "Spanner in the Works: Why the Aircraft Engineer and Technician Shortage Still Threatens Aviation in 2025," AeroProfessional, 2025.
+[^2]: **Aircraft Engineer Shortage Projections:** Oliver Wyman report projects the deficit of aircraft maintenance technicians could reach 27% by 2027 (approximately 48,000 workers). Additional data indicates 27% of current aircraft engineers in Europe are due to retire within a decade, while 45% consider leaving the industry in UK, Europe, and Asia-Pacific regions. Source: "How To Overcome The Impending Shortage Of Aviation Mechanics," Oliver Wyman, 2023; "Spanner in the Works: Why the Aircraft Engineer and Technician Shortage Still Threatens Aviation in 2025," AeroProfessional, 2025.
 
-[^3]: **Training Infrastructure Gap (2-3 years):** Europe needs approximately 5,800 new pilots per year, yet flight schools currently produce only about 25% of that annually. Flight training for EASA ATPL takes up to 2 years to complete. Industry analysis indicates training infrastructure "has a hard time keeping up with demand" following pandemic recovery. Source: "How Growing Pilot Shortage Predictions from 2023 and 2024 Highlight the Need for Increased Training in 2025," BAA Training, 2024; "Pilot Shortage Forecasts Highlight Training Needs for 2025," Aerotime, 2024.
+[^3]: **Current Operational Impact - Flight Cancellations:** Swiss Airlines confirmed cancellation of approximately 1,400 flights from May through October 2025 due to pilot shortage, affecting multiple routes from Zurich and Geneva. KLM publicly acknowledged difficulties staffing long-haul flights despite having more pilots on roster than previously. Source: "Facing a Pilot Shortage, Swiss Cancels Flights. Is This a Sign of a Wider European Trend?" Euronews, 2025; "Global Pilot Shortage Intensifies as Airline Expansion and Retirements Surge," AirlineRatings, 2024.
 
-[^4]: **Airlines Grounding Aircraft:** Swiss Airlines confirmed cancellation of approximately 1,400 flights from May through October 2025 due to pilot shortage, affecting multiple routes from Zurich and Geneva. KLM publicly acknowledged difficulties staffing long-haul flights despite having more pilots on roster than previously. Source: "Facing a Pilot Shortage, Swiss Cancels Flights. Is This a Sign of a Wider European Trend?" Euronews, 2025; "Global Pilot Shortage Intensifies as Airline Expansion and Retirements Surge," AirlineRatings, 2024.
+[^4]: **Training Infrastructure Gap:** Europe needs approximately 5,800 new pilots per year, yet flight schools currently produce only about 25% of that annually. Flight training for EASA ATPL takes up to 2 years to complete. Industry analysis indicates training infrastructure "has a hard time keeping up with demand" following pandemic recovery. UK lost 20% of its training capacity following the collapse of Air Service Training in 2025. Source: "How Growing Pilot Shortage Predictions from 2023 and 2024 Highlight the Need for Increased Training in 2025," BAA Training, 2024; "Pilot Shortage Forecasts Highlight Training Needs for 2025," Aerotime, 2024.
