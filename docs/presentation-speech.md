@@ -38,7 +38,7 @@ But here's the reality: this is a market in recovery mode, not growth mode.
 
 Let me explain what I mean by walking through the critical challenges – because they directly impact our business.
 
-**First, the workforce crisis.** Europe is short 18 to 20 thousand pilots right now. They're missing 30% of their aircraft engineers. And this isn't a temporary blip – the training infrastructure simply cannot close this gap for two to three years. Airlines are literally grounding aircraft they own because they don't have crews to fly them. When you can't staff your existing fleet, you certainly can't expand it aggressively.
+**First, the workforce crisis.** Europe is short 18 to 20 thousand pilots right now.[^1] They're missing 30% of their aircraft engineers.[^2] And this isn't a temporary blip – the training infrastructure simply cannot close this gap for two to three years.[^3] Airlines are literally grounding aircraft they own because they don't have crews to fly them.[^4] When you can't staff your existing fleet, you certainly can't expand it aggressively.
 
 **Second, sustainability costs are hitting hard.** The EU's ReFuelEU mandate and the Emissions Trading System are adding between 4 and 8 euros per passenger in costs. Airlines are responding by accelerating fleet renewal – replacing older aircraft with more efficient models – but they're not adding capacity. They're replacing one-for-one. For us, that means the 185 aircraft being delivered to Europe in 2026 are split almost evenly: 100 for growth, 85 for replacement.
 
@@ -102,3 +102,15 @@ But first, let's acknowledge the elephant in the room: geopolitical risk.
 ---
 
 **File Location:** `/home/user/EOY2025/docs/presentation-speech.md`
+
+---
+
+## Sources and References
+
+[^1]: **Pilot Shortage (18-20,000 pilots):** Oliver Wyman analysis projects Europe could face a shortfall of approximately 19,000 pilots by 2032. Source: "Will There Be a Pilot Shortage in Europe?" Easy EASA, 2024; "A New Pilot Shortage Forecast for 2024-2042," AEROCADET, 2024.
+
+[^2]: **Aircraft Engineer Shortage (30%):** Oliver Wyman report projects the deficit of aircraft maintenance technicians could reach 27% by 2027 (approximately 48,000 workers). Additional data indicates 27% of current aircraft engineers in Europe are due to retire within a decade, while 45% consider leaving the industry in UK, Europe, and Asia-Pacific regions. Source: "How To Overcome The Impending Shortage Of Aviation Mechanics," Oliver Wyman, 2023; "Spanner in the Works: Why the Aircraft Engineer and Technician Shortage Still Threatens Aviation in 2025," AeroProfessional, 2025.
+
+[^3]: **Training Infrastructure Gap (2-3 years):** Europe needs approximately 5,800 new pilots per year, yet flight schools currently produce only about 25% of that annually. Flight training for EASA ATPL takes up to 2 years to complete. Industry analysis indicates training infrastructure "has a hard time keeping up with demand" following pandemic recovery. Source: "How Growing Pilot Shortage Predictions from 2023 and 2024 Highlight the Need for Increased Training in 2025," BAA Training, 2024; "Pilot Shortage Forecasts Highlight Training Needs for 2025," Aerotime, 2024.
+
+[^4]: **Airlines Grounding Aircraft:** Swiss Airlines confirmed cancellation of approximately 1,400 flights from May through October 2025 due to pilot shortage, affecting multiple routes from Zurich and Geneva. KLM publicly acknowledged difficulties staffing long-haul flights despite having more pilots on roster than previously. Source: "Facing a Pilot Shortage, Swiss Cancels Flights. Is This a Sign of a Wider European Trend?" Euronews, 2025; "Global Pilot Shortage Intensifies as Airline Expansion and Retirements Surge," AirlineRatings, 2024.
