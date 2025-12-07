@@ -205,15 +205,85 @@ Qatar Airways has the world's largest A350 backlog: 184 aircraft. They're buildi
 
 This is our market. This is where the growth is. This is where premium matters.
 
-**[Continue to Slide 9: Middle East Growth Drivers...]**
+---
+
+## SLIDE 9: Middle East Growth Drivers - Vision 2030 & Infrastructure
+**[SLIDE 9: Middle East Growth Drivers graphic/bullets]**
+
+**SPEECH (Duration: ~2-3 minutes)**
+
+So what's driving this extraordinary growth in the Middle East? It's not market forces alone – it's deliberate, strategic, government-backed transformation.
+
+Let me highlight the three primary drivers:
+
+**First, Vision 2030 and strategic national plans.**
+
+Saudi Arabia's Vision 2030 is the most ambitious: $100 billion invested in aviation infrastructure alone. King Salman International Airport – $31 billion – targeting 330 million passengers annually. That's transforming Riyadh from a regional city into a global aviation hub competing directly with Dubai and Doha.
+
+The goal isn't just tourism – it's economic diversification away from oil. Aviation is the enabler. Red Sea Project, NEOM, Hajj and Umrah expansion – all require massive aviation connectivity.
+
+And it's working: Saudi fleet growth is 11.7% in 2026 – the fastest in the region.
+
+**Second, infrastructure mega-investment.**
+
+We're talking about $300 billion being invested across the Middle East in aviation infrastructure between now and 2030. Dubai's Al Maktoum expansion targeting 260 million passenger capacity. Abu Dhabi terminal expansions. Qatar's Hamad International already rated one of the world's best airports.
+
+This isn't incremental improvement – this is building the next generation of global super-hub airports.
+
+**Third, the hub model advantage.**
+
+Geography matters. Dubai, Doha, Abu Dhabi – they sit at the crossroads of Europe, Asia, Africa, and the subcontinent. Six-hour radius from these hubs reaches 3 billion people. Compare that to European hubs that are geographically constrained or North American hubs that face directional limitations.
+
+The one-stop hub model works when your location allows you to connect continents efficiently. And that's exactly what the Gulf carriers have built.
+
+Add to this: no workforce crisis like Europe, access to capital, government backing for long-term strategy, and premium service as a differentiator. The result is sustained, structural growth.
+
+Now, there's one more factor I want to highlight that's often overlooked: wealth migration.
+
+---
+
+## SLIDE 10: Wealth Migration & Premium Travel Demand
+**[SLIDE 10: Map or infographic showing HNWI migration to UAE/Middle East]**
+
+**SPEECH (Duration: ~2 minutes)**
+
+This is a demographic shift that directly impacts premium travel demand.
+
+In 2024, the UAE attracted 6,700 high-net-worth individuals – people with over $1 million in investable assets – relocating to the country. That's more than any European country. Saudi Arabia and Qatar are seeing similar patterns at smaller scales.
+
+Why does this matter to us? Because these individuals fly premium cabins. They fly frequently. They influence corporate travel policies. And they create demand for the very product categories where our materials excel.
+
+When you have thousands of high-net-worth individuals moving to Dubai, Abu Dhabi, Riyadh – you're concentrating premium travel demand in exactly the markets where airlines are expanding their premium cabin offerings.
+
+Look at what's happening with premium cabins in the region:
+- Emirates has first class on every widebody. Every single one.
+- Qatar Airways' Qsuite business class is the benchmark globally
+- Even the low-cost carriers like flynas are adding premium economy and business options on longer routes
+
+This wealth concentration is reshaping demand patterns. Europe historically had the premium travelers. Now the Middle East is building its own base of premium demand – and it's growing faster.
+
+**[Pause, look at the board]**
+
+So let me summarize where we are before we take a short break:
+
+Europe is stable but constrained – workforce shortages, sustainability costs, geopolitical challenges. Growth is 2.4%, focused on efficiency and fleet renewal. There ARE opportunities in narrowbody premium, but it's a measured, limited market.
+
+The Middle East is where the growth is. 7.1% fleet growth. 240 aircraft deliveries in 2026, heavily weighted to twin-aisle premium configured aircraft. Government-backed expansion. Wealth migration creating organic premium demand. And infrastructure investment that ensures this isn't a short-term trend.
+
+For TAPIS, this creates a clear strategic imperative: double down on the Middle East while maintaining our European relationships.
+
+After the break, I'll show you exactly what this means for our business – the specific opportunities, the account targets, and what we need to do to capture this market.
+
+**[END OF PART 1 - 25 minutes]**
 
 ---
 
 ## Navigation Notes:
-- **Current Status:** Introduction + Slides 1-8 complete (Europe overview + Middle East overview)
-- **Next Slides:** Middle East Growth Drivers (Slide 9), Wealth Migration (Slide 10), Premium Cabins Trend, then TAPIS Opportunity slides
-- **Time Used:** ~20-22 minutes of 25-minute first part
-- **Time Remaining:** ~3-5 minutes remaining for final first-part slides
+- **Status:** PART 1 COMPLETE
+- **Content Covered:** Introduction + Slides 1-10 (Full market overview: Europe + Middle East)
+- **Time Used:** ~25 minutes (within target)
+- **Next Section:** PART 2 will cover TAPIS Opportunities, Strategic Accounts, 2026 Targets
+- **Break Point:** Natural pause for questions/break before diving into business specifics
 
 ---
 
